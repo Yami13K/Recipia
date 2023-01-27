@@ -1,0 +1,10 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  button {
+    @apply border-gray-300 border rounded-full px-3 py-1 mx-1 transition-all duration-200;
+  }
+}
