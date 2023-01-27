@@ -1,4 +1,4 @@
-# creative-vue
+# Recipia
 
 ## Project setup
 ```
